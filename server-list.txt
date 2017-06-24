@@ -205,6 +205,7 @@ tz.hma.rocks |	Tanzania, Arusha | tz | tcp | udp
 ua.hma.rocks |	Ukraine, Odessa | ua | tcp | udp
 ug.hma.rocks |	Uganda, Kampala | ug | tcp | udp
 us.hma.rocks |	USA | us | tcp | udp
+liberty.hma.rocks | USA, Liberty Island | us | tcp | udp
 ak.us.hma.rocks |	USA, Alaska, Anchorage | us | tcp | udp
 al.us.hma.rocks |	USA, Alabama, Montgomery | us | tcp | udp
 ar.us.hma.rocks |	USA, Arkansas, Magnolia | us | tcp | udp
